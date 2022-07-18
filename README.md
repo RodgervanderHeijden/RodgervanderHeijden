@@ -6,4 +6,4 @@ I like to connect: connecting people for enriching experiences; connecting datas
 
 I am looking for a new (full-time) challenge. Do you think you have an interesting opportunity? I would love to discuss it!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodgervanderHeijden&hide=contribs,stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodgervanderHeijden&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodgervanderHeijden&hide=contribs,stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
