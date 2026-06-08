@@ -1,6 +1,6 @@
 ### :wave: Hi :wave:
 
-I'm Rodger, a Dutch full-stack data scientist based in Vienna! 
+I'm Rodger, a Dutch full-stack data scientist based in Eindhoven and founder of Verbatim language learning! 
 My passions include dealing with data, dashboarding and telling stories. 
 I have used data to learn new languages, to find a place to live, to get back in shape and to solve crimes. 
 
