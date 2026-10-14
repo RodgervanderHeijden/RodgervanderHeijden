@@ -10,4 +10,4 @@ At the moment I am looking for a new (full-time) challenge in the world of data.
 Do you think you have an interesting opportunity? 
 I would love to discuss it!
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RodgervanderHeijden&rank_icon=percentile&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=RodgervanderHeijden&rank_icon=percentile&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RodgervanderHeijden&show_icons=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=RodgervanderHeijden&show_icons=true&theme=transparent)
